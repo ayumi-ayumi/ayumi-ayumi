@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayumi Sato</h1>
 <h3 align="center">A passionate frontend developer from Tokyo, Japan</h3>
 
+![profile header](https://user-images.githubusercontent.com/69543331/220901434-573eff7b-7015-4aac-89f7-2b8f479e9a64.png)
+
 - 👩‍💻 **I’m a Web Development cohort at Frauenloop**
 
 - 🌱 I’m currently learning **Python and PostgreSQL**
