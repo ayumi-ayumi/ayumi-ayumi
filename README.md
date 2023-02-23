@@ -7,6 +7,11 @@
 
 - 🌱 I’m currently learning **Python and PostgreSQL**
 
+- My Projects
+  - Coffee shop webpage - [demo](https://ayumi-ayumi.github.io/coffeeshop/) - [git repo](https://github.com/ayumi-ayumi/coffeeshop) -
+  - Learner Mentor App - [demo] - [git repo](https://github.com/ayumi-ayumi/Learner_Mentor_App) -
+  - Calendar with study TODO list - [demo](https://ayumi-ayumi.github.io/React_Calendar/) - [git repo](https://github.com/ayumi-ayumi/React_Calendar) -
+
 - 📫 How to reach me **ayumisato.365@gmail.com**
 
 - ⚡ Fun fact **I am made of curiosity. I always look for something that can make me updated into new version of me.**
