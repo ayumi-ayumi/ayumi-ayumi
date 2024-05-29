@@ -5,7 +5,7 @@
 
 - 👩‍💻 **I’m a Web Development cohort at Frauenloop**
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
 - My Projects
   - Coffee shop webpage - [demo](https://ayumi-ayumi.github.io/coffeeshop/) - [git repo](https://github.com/ayumi-ayumi/coffeeshop) -
