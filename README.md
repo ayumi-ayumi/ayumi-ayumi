@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayumi Sato</h1>
-<h3 align="center">A passionate frontend developer from Tokyo, Japan</h3>
+<h3 align="center">A never-give-up frontend developer from Tokyo</h3>
 
-![profile header](https://user-images.githubusercontent.com/69543331/220901434-573eff7b-7015-4aac-89f7-2b8f479e9a64.png)
+![profile header (1)](https://github.com/user-attachments/assets/267d52ef-f58f-4d65-9f61-f3b135b10af4)
+
 
 - 👩‍💻 **I’m a Web Development cohort at Frauenloop**
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - My Projects
-  - Coffee shop webpage - [demo](https://ayumi-ayumi.github.io/coffeeshop/) - [git repo](https://github.com/ayumi-ayumi/coffeeshop) -
-  - Learner Mentor App - [demo] - [git repo](https://github.com/ayumi-ayumi/Learner_Mentor_App) -
+  - Learner Mentor App - [demo]() - [git repo](https://github.com/ayumi-ayumi/learner_mentor-app) -
+  - Pomodoro Timer - [demo](https://ayumi-ayumi.github.io/pomodoro-timer-record/) - [git repo](https://github.com/ayumi-ayumi/pomodoro-timer-record) -
   - Calendar with study TODO list - [demo](https://ayumi-ayumi.github.io/React_Calendar/) - [git repo](https://github.com/ayumi-ayumi/React_Calendar) -
 
 - 📫 How to reach me **ayumisato.365@gmail.com**
