@@ -4,18 +4,20 @@
 ![profile header (1)](https://github.com/user-attachments/assets/267d52ef-f58f-4d65-9f61-f3b135b10af4)
 
 
-- 👩‍💻 **I’m a Web Development cohort at Frauenloop**
+- 🐲 **I'm the never-give-up Self-taught Frontend Developer.**
+- 👩‍💻 **I’m an ex Web Development cohort at [Frauenloop](https://www.frauenloop.org/)**
 
-- 🌱 I’m currently learning **Next.js and Typescript**
+- 🐜🐜🐜 I’m currently learning **Next.js and Node.js**
 
 - My Projects
   - Learner Mentor App - [demo]() - [git repo](https://github.com/ayumi-ayumi/learner_mentor-app) -
   - Pomodoro Timer - [demo](https://ayumi-ayumi.github.io/pomodoro-timer-record/) - [git repo](https://github.com/ayumi-ayumi/pomodoro-timer-record) -
   - Calendar with study TODO list - [demo](https://ayumi-ayumi.github.io/React_Calendar/) - [git repo](https://github.com/ayumi-ayumi/React_Calendar) -
+  - Weather Forecast app - [demo](https://ayumi-ayumi.github.io/Weather-app/) - [git repo](https://github.com/ayumi-ayumi/Weather-app) -
 
-- 📫 How to reach me **ayumisato.365@gmail.com**
+- 📮 Feel free to contact me => **ayumisato.365@gmail.com**
 
-- ⚡ Fun fact **I am made of curiosity. I always look for something that can make me updated into new version of me.**
+- ⚡ **I am made of curiosity. I always look for something that can make me updated into new version of me.**
 
 
 <h3 align="left">Languages and Tools:</h3>
