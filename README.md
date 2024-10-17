@@ -3,7 +3,7 @@
 
 ![profile header (1)](https://github.com/user-attachments/assets/267d52ef-f58f-4d65-9f61-f3b135b10af4)
 
-
+⏩[My portofolio page](https://ayumi-ayumi.github.io/portfolio/)
 - 🐲 **I'm the never-give-up Self-taught Frontend Developer.**
 - 👩‍💻 **I’m an ex Web Development cohort at [Frauenloop](https://www.frauenloop.org/)**
 
